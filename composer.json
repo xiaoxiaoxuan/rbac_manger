@@ -1,20 +1,16 @@
 {
     "name": "xiaoxiaoxuan/rbac_manger",
-    "description": "rbac权限管理",
+    "description": "一个通用的文件上传包",
     "type": "library",
     "require": {
         "php": ">=5.4"
     },
-    "require-dev": {
-        "php": ">=5.4"
-    },
+    "require-dev": {},
     "license": "MIT",
-    "authors": [
-        {
-            "name": "humingxuan",
-            "email": "13625270510@163.com"
-        }
-    ],
+    "authors": [{
+        "name": "xiaoxiaoxuan",
+        "email": "13625270510@qq.com"
+    }],
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
