@@ -1,0 +1,24 @@
+{
+    "name": "xiaoxiaoxuan/rbac_manger",
+    "description": "rbac权限管理",
+    "type": "library",
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "php": ">=5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "humingxuan",
+            "email": "13625270510@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "xiaoxuan\\": "src/"
+        }
+    }
+}
