@@ -16,5 +16,10 @@
         "psr-4": {
             "xiaoxuan\\": "src/"
         }
-    }
+    },
+    "extra": {
+        "hyperf": {
+            "config": "Xiaoxuan\\ConfigProvider"
+        }
+    },
 }
